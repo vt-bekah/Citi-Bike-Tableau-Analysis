@@ -1,5 +1,6 @@
-# Not bloating github with raw files
+# Not bloating github with data files
 raw-data/
+clean-data/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
