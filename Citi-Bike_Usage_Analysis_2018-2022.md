@@ -1,4 +1,4 @@
-<img src="images/Citi-Bike_Logo.png"  width="500" height="75">
+![](images/Citi-Bike_Logo.png)
 
 # Executive Summary
  This analysis takes a look at station usage, ride counts, and ride times to identify potential areas to deep dive into specific usage and growth (ride counts and revenue).
@@ -20,7 +20,7 @@ Some rides have an end time more than one day from start time. These are exclude
 **Analysis**<br>
 
 Stations were added in May 2021 primarily in zip code 07030 so these stations will show fewer rides when all years are selected. Filtering the map overview for May 2021+, the ride counts at these stations is on par with the stations in zip code 07302 indicating a success for adding them. 
-<img src="images/JC_station_usage_May2021_2022.png"  width="900" height="500">
+![](images/JC_station_usage_May2021_2022.png)
 
 It appears users prefer the service when ride times between stations are shorter. Adding more stations on the eastern portions of zip codes 07307, 07306, 07304 may attract more users.
 * Reviewing the overall map, stations in zip codes 07304 and 07306 show fewer ride counts and higher average ride times. 
@@ -30,7 +30,7 @@ It appears users prefer the service when ride times between stations are shorter
     * During the week, subscribers account for more rides. While on the weekend, non-subscribers account for more rides.
     * The weekday pattern drives the overall monthly subscriber vs non-subscriber usage with subscribers accounting for 55% of rides.
 
-<img src="images/Liberty_Rail.png"  width="800" height="550">
+![](images/Liberty_Rail.png)
 
 ## Growth Over Time 2018 - 2022
 
@@ -41,9 +41,9 @@ Aside from the COVID-19 impact, ride counts have grown steadily YoY. The COVID i
 * March 2021 ride counts began to grow again showing the strongest YoY growth, but its compare was to a weak 2020.
 * Rides by non-subscribers is growing faster than subscribers.
 
-<img src="images/JC_Ride_Count_2018_2022.png"  width="900" height="500">
+![](images/JC_Ride_Count_2018_2022.png)
 <br>
-<img src="images/JC_USer_Ride_Count_2018_2022.png"  width="900" height="500">
+![](images/JC_USer_Ride_Count_2018_2022.png)
 
 ## Revenue Jun 2021 - Dec 2022
 
@@ -74,5 +74,5 @@ June 2021 - December 2022:
     * This means 7 unlocks for $19 + $4.49 ($3.36 per unlock on average).
 * For the purpose of managing annual membership revenue without customer IDs, I'm going to assume that members average 2 rides a day thus splitting the annual fee across 730 rides: (Avg($205+$199))/(730) = $0.28.
 
-<img src="images/JC_Revenue_Jun2021-2022.png"  width="950" height="500">
+![](images/JC_Revenue_Jun2021-2022.png)
 
