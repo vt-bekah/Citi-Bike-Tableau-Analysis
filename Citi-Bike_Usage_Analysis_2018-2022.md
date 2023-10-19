@@ -42,8 +42,9 @@ Aside from the COVID-19 impact, ride counts have grown steadily YoY. The COVID i
 * Rides by non-subscribers is growing faster than subscribers.
 
 ![Monthly Ride Counts](Images/JC_Ride_Count_2018_2022.png)
-<br>
-![Monthly Ride Counts by User](Images/JC_USer_Ride_Count_2018_2022.png)
+
+
+![Monthly COunts by User](Images/JC_User_Ride_Count_2018_2022.png)
 
 ## Revenue Jun 2021 - Dec 2022
 
