@@ -55,6 +55,7 @@ June 2021 - December 2022:
     * electric bike usage makes up slightly over half (52%) non-subscriber contribution.
 * Electric bike rides contribute slightly more to revenue than classic bike rides (54% vs. 46%).
 * Subscribers contribute a higher percentage to electric bike revenue than they do to classic bike revenue.
+* Classic bike revenue peaks later in the year than electric bike usage. It would be interesting to overlay weather patterns with this data for deeper analysis.
 
 ### Caveats & Assumptions for the purpose of creating Revenue charts for this project
 **Basis of Assumptions**<br>
